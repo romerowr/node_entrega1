@@ -1,0 +1,11 @@
+{
+  "name": "operacions",
+  "version": "1.0.0",
+  "description": "prueba de operaciones ex 2",
+  "main": "matematica.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "alex romero",
+  "license": "ISC"
+}
